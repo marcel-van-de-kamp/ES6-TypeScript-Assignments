@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    
+  </head>
+
+  <body>
+     <div id="container">
+      
+    </div>
+    
+      <script>
+      window.console.log = function(text) {
+        var para = document.createElement("div");
+        var node = document.createTextNode(text);
+        para.appendChild(node);
+        
+        document.getElementById("container").appendChild(para);
+      }
+    </script>
+  </body>
+
+</html>

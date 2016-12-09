@@ -1,0 +1,36 @@
+JavaScript:
+
+	- ES5 Objects en cheatsheet: 	https://embed.plnkr.co/XzA0P2KPjPp7MULFyLwW/
+	- ES6 var,let const: 		https://embed.plnkr.co/XL5N61Zu5LkrxRQ32o1n/ 
+	- ES6 template literals:	https://embed.plnkr.co/yXLGF0g5X1Ipri7OuuQH/
+	- ES6 Destructering: 		https://embed.plnkr.co/qRf4CEEZ6JK3prEGFuTL/
+	- ES6 arrow function syntax:	https://embed.plnkr.co/j3AHhPvK45g0V3jz3RYd/
+	- ES6 arrow lexical this:	https://embed.plnkr.co/kNe7qNw2btk7nzZLT8MT/
+	- ES6 default params:		https://embed.plnkr.co/RoYXbEH6vp6lLVLK4gMu/
+	- ES6 rest and spread:		https://embed.plnkr.co/G0DPyOGwIL21B9HntsiW/
+	- ES6 classes:			https://embed.plnkr.co/pCi3zU4jRyVxStWsTP1B/
+	- ES6 Modules:			https://embed.plnkr.co/AWLykJ3VTPEu62MVh5Yk/
+	
+
+	- antwoorden: https://plnkr.co/edit/eFrpf2XRxLfLwRG4osPw?p=info
+
+
+TypeScript:			
+	- Static typing:		https://embed.plnkr.co/r5vLgJ9nQp2g3ywgXcg7/
+	- Type assertion:		https://embed.plnkr.co/Nnp41WaNmRPsZhoEp6be/
+	- Enums:			https://embed.plnkr.co/tqoS1q0cWAUOrhDr9NoJ/		
+	- Classes:			https://embed.plnkr.co/ieRBnYWqnNkKteKSp80T/
+	- Inheritance:			https://embed.plnkr.co/A5sgCiLzIMprFYg6VAoW/
+	- Interfaces:			https://embed.plnkr.co/Tit80CLhr6VXFPPWMQfL/
+	- Generics:			https://embed.plnkr.co/1bwQQ30U9wbD4Te7zLdR/
+	- Modules:			https://embed.plnkr.co/QRr1ajXKI5CW2rw7mP6l/
+	
+
+	- antwoorden:			https://plnkr.co/edit/GP9fXNCLohoyU9lK3f84?p=preview
+
+
+Slides: In een command prompt:
+- 'git clone' https://github.com/mpoelstra/angular2training
+- 'cd' naar de aangemaakte folder (angular2training) en voer de commando 'npm install' uit
+- als dat klaar is kun je met de commando 'npm start' de slides applicatie uitvoeren (even geduld ;))
+ 
