@@ -1,3 +1,30 @@
+ES6 en TypeScript in vscode:
+
+- maak even een folder op je bureau blad genaamd 'training'
+- open vscode en open de folder training in vs code
+- maak binnen die folder een folder ES6
+- maak binnen de training folder een folder typescript
+
+structuur:
+- training
+	- es6
+	- typescript
+	- angular2
+
+maak in de training folder een bestand genaamd tsconfig.json
+
+zet in dat bestand de volgende json:
+
+
+{
+    "compilerOptions": {
+        "rootDir": "typescript",
+        "target": "es6",
+        "module": "commonjs"
+    }
+}
+
+
 JavaScript:
 
 	- ES5 Objects en cheatsheet: 	https://embed.plnkr.co/XzA0P2KPjPp7MULFyLwW/
